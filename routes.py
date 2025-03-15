@@ -1,6 +1,7 @@
 from flask import request, jsonify
 from ruindiv import suggest_diving_areas
 from cdiving import preprocess_input, make_prediction
+from seaani import predict_image_from_bytes
 
 def suggest_diving_areas_endpoint():
     experience_level = request.args.get('experience_level')
@@ -26,3 +27,17 @@ def cdiving():
     except Exception as e:
         return jsonify({"error": str(e)})
 
+def classify_image():
+    try:
+        if 'image' not in request.files:
+            return jsonify({"error": "No image file provided"}), 400
+
+        image_file = request.files['image']
+        image_bytes = image_file.read()
+
+        predicted_label = predict_image_from_bytes(image_bytes)
+
+        return jsonify({"Predicted Label": predicted_label})
+
+    except Exception as e:
+        return jsonify({"error": str(e)})
