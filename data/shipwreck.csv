@@ -1,0 +1,114 @@
+﻿#,Site,Original Name,Depth (m),Sank On,Administrative District
+1,SL/W/PANA/M/02,Panadura Boiler Wreck 02 (Northeast Wreck),5,,Colombo
+2,SL/W/COLO/M/13,Lotus Barge,26,,Colombo
+3,SL/W/COLO/M/14,Wallet Wreck,35,,Colombo
+4,SL/W/COLO/M/15,SS Perseus,38,1917,Colombo
+5,SL/W/COLO/M/03,Moratuwa Gun Boat,13,,Colombo
+6,SL/W/NEGO/M/22,Kapumgoda wreck 01,3,,Gampaha
+7,SL/W/COLO/M/04,MV Thermopylae Sierra,6,2012,Colombo
+8,SL/W/COLO/M/05,MV Medhufaru,22,2009,Colombo
+9,SL/W/COLO/M/06,MT Nilgiri,24,1997,Colombo
+10,SL/W/COLO/M/07,SS Worcestershire,55,1917,Colombo
+11,SL/W/COLO/M/08,Battery Barge,42,,Colombo
+12,SL/W/COLO/M/09,Taprobane East Wreck,29,,Colombo
+13,SL/W/COLO/M/10,Pecheur Breton,25,1994,Colombo
+14,SL/W/COLO/M/11,Four Barges site,30,,Colombo
+15,SL/W/COLO/M/12,Toilet Barge,30,,Colombo
+16,SL/S/LBAS/M/01,Little Basses wreck,5,,Hambantota
+17,SL/W/PANA/M/01,Panadura Boiler Wreck 01 (Southwest Wreck),5,1885,Colombo
+18,SL/W/COLO/M/16,Coal Wreck,26,,Colombo
+19,SL/W/COLO/M/17,MV Chief Dragon,20,1983,Colombo
+20,SL/W/COLO/M/18,MV Astoria,18,1997,Colombo
+21,SL/W/COLO/M/19,Black Coral wreck,37,,Colombo
+22,SL/W/COLO/M/21,Clarke's Wreck,27,,Colombo
+23,SL/W/NEGO/M/24,MV We Ling /SLN A522,22,2018,Gampaha
+24,SL/W/NEGO/M/25,Musgrave (1885)?,8,1885,Gampaha
+25,SL/W/NEGO/M/26,Pitipana Wreck,5,,Gampaha
+26,SL/S/GBAS/M/02,Copper Wreck,16,,Hambantota
+27,SL/S/GHRB/M/17,Avondster VOC,8,1659,Galle
+28,SL/S/GALL/M/19,SS Rangoon,28,1871,Galle
+29,SL/S/GBAS/M/04,Silver Coin Wreck,8,1702,Hambantota
+30,SL/S/GALL/M/21,MV Elsia,9,1939,Galle
+31,SL/S/GHRB/M/13,VOC Hercules GHF,2,1661,Galle
+32,SL/S/GHRB/M/11,"Site ""G""",9,,Galle
+33,SL/S/GBAS/M/03,Bottle Wreck,8,,Hambantota
+34,SL/S/KOSG/M/31,MV Tricolor,60,1931,Galle
+35,SL/E/IRAK/M/01,SS Ava,5,1858,Trincomalee
+36,SL/E/UPPU/M/02,HMS Diomede,42,1795,Trincomalee
+37,SL/E/TRIN/M/05,Weeraya P311,16,2020,Trincomalee
+38,SL/E/TRIN/M/04,SS Sagaing,46,1942,Trincomalee
+39,SL/E/KAYA/M/11,SS British Sergeant,1,1942,Batticaloa
+40,SL/E/KAYA/M/12,SS Lady McCallum,16,1926,Batticaloa
+41,SL/E/PASI/M/13,SS Amarillys,6,1908,Batticaloa
+42,SL/E/PASI/M/14,SS Clan Lamont,7,1891,Batticaloa
+43,SL/E/PASI/M/16,SS Gladys Moller,6,1942,Batticaloa
+44,SL/E/BATT/M/18,SS Sir John Jackson,8,1908,Batticaloa
+45,SL/E/BATT/M/19,Batticaloa Boiler wreck,8,,Batticaloa
+46,SL/E/BATT/M/20,SS Brennus,8,1881,Batticaloa
+47,SL/E/KALM/M/26,HMS Hollyhock,36,1942,Ampara
+48,SL/E/KALM/M/25,SS Athelstane,39,1942,Ampara
+49,SL/E/UMAR/M/29,SS Maimyo,6,1936,Ampara
+50,SL/E/KALM/M/24,Kalmunai wreck 1,8,,Ampara
+51,SL/E/KALM/M/22,Kalmunai Boiler wreck 2,8,,Ampara
+52,SL/E/KALM/M/23,MV Ledra,8,1967,Ampara
+53,SL/S/GODA/M/06,Godawaya Wreck,32,-200,Hambantota
+54,SL/S/GHRB/M/09,Extraco - I,7,1988,Galle
+55,SL/W/COLO/M/20,Cardinal Barge,28,,Colombo
+56,SL/E/PASI/M/17,Catalina Y-78,42,1943,Batticaloa
+57,SL/W/NEGO/M/23,Kapumgoda wreck 02,8,,Gampaha
+58,SL/W/COLO/M/27,Salviva,21,,Colombo
+59,SL/E/TRIN/M/03,Konashwaram Troller,5,,Trincomalee
+60,SL/E/TRIN/M/06,Jagatha P315,15,2020,Trincomalee
+61,SL/E/TRIN/M/07,Balawatha,8,1987,Trincomalee
+62,SL/E/TRIN/M/08,Rakshaka,8,1997,Trincomalee
+63,SL/E/BATT/M/21,HMS Hermes,47,1942,Batticaloa
+64,SL/S/GHRB/M/16,"Site ""E""",5,,Galle
+65,SL/N/MULA/M/10,SS Indus,8,1885,Mullaitivu
+66,SL/S/GODA/M/07,Niyandagala Wreck,5,,Hambantota
+67,SL/S/GHRB/M/10,Site I or Boiler wreck 02,9,,Galle
+68,SL/S/GALL/M/25,Gintota Wreck 03 (Brick wreck),11,,Galle
+69,SL/S/URAN/M/05,Uraniya Wreck,10,2001,Hambantota
+70,SL/S/GHRB/M/34,Sri Lankan Glory,4,2019,Galle
+71,SL/S/TANG/M/33,Wombat,14,1975,Hambantota
+72,SL/W/WATT/M/30,MV Georgiou K,2,1994,Gampaha
+73,SL/S/UNAW/M/08,Lord Nelson,5,1996,Galle
+74,SL/W/COLO/M/32,S.T. Samson,3,1965,Colombo
+75,SL/W/COLO/M/31,Unknown,2,,Colombo
+76,SL/S/GHRB/M/12,Site S or Boiler wreck 01,9,,Galle
+77,SL/N/PESA/M/03,MV Mission,5,1997,Mannar
+78,SL/E/PASI/M/15,Pasikudah Boiler wreck 04 (Pasikudah Iron wreck till 2019),7,,Batticaloa
+79,SL/E/ADDA/M/27,Addalaichenai Boiler wreck,6,,Ampara
+80,SL/E/THIR/M/28,SS Norviken,7,1942,Ampara
+81,SL/E/KOMA/M/30,City of Mysore (1915),8,1915,Ampara
+82,SL/S/GHRB/M/14,SS Malabar,8,1860,Galle
+83,SL/S/GHRB/M/18,Troller Black Fort,5,,Galle
+84,SL/N/MULA/M/06,MV Farah III,6,2006,Mullaitivu
+85,SL/N/MULA/M/09,MV Princess Kash,10,1998,Mullaitivu
+86,SL/N/PULM/M/12,MV Cordaility,8,1997,Mullaitivu
+87,SL/S/GHRB/M/15,"Site ""A""",6,,Galle
+88,SL/S/GALL/M/20,SS Orestes,23,1876,Galle
+89,SL/S/GALL/M/22,Ginthota Boiler wreck,8,,Galle
+90,SL/S/GALL/M/23,MV Aenos,11,,Galle
+91,SL/S/GALL/M/24,Ralagla Wreck 02,11,,Galle
+92,SL/S/GALL/M/26,Medagala Wreck,11,,Galle
+94,SL/S/HIKK/M/28,Earl of Shaftesbury,12,1893,Galle
+95,SL/S/HIKK/M/29,SS Conch,8,1903,Galle
+96,SL/S/AMBA/M/30,Ambalangoda Wreck,6,,Galle
+97,SL/S/BERU/M/32,Beruwala Wreck ?,0,,Galle
+98,SL/NW/KALP/M/01,Kudawa Battala,7,,Putttalam
+99,SL/N/ARIP/M/01,Battalangunduwa Barge,7,,Mannar
+100,SL/N/ARIP/M/02,Arippu Wreck,8,,Mannar
+101,SL/N/KKSN/M/04,KKS Wreck,11,,Jaffna
+102,SL/N/VETT/M/05,Vettalakeni Wreck,13,,Jaffna
+103,SL/N/MULA/M/07,Navy Vessel,7,,Mullaitivu
+104,SL/N/MULA/M/08,Iron Wreck,10,,Mullaitivu
+105,SL/N/MULA/M/11,New Wreck,0,,Mullaitivu
+106,SL/E/TRIN/M/09,Barge No 01,31,,Trincomalee
+107,SL/E/TRIN/M/10,Admiralty Floating Dock 23,28,1944,Trincomalee
+108,SL/E/TRIN/M/31,Mitsubishi B2 KATA (Japanese),22,1942,Trincomalee
+109,SL/E/TRIN/M/32,Hawker Harricane (UK),28,1942,Trincomalee
+110,SL/E/TRIN/M/33,Hawker Harricane (UK),61,1942,Trincomalee
+111,SL/NW/PUTL/M/02,WW II Aircraft,4,,Putttalam
+112,SL/NW/PUTL/M/03,WW II Aircraft,3,,Putttalam
+113,SL/W/COLO/M/28,Unknown,5,,Gampaha
+114,SL/W/COLO/M/29,Unknown,3,,Colombo
