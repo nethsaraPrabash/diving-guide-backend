@@ -1,10 +1,12 @@
 from flask import Flask
-from routes import suggest_diving_areas_endpoint
+from routes import suggest_diving_areas_endpoint, cdiving
 
 app = Flask(__name__)
 
-# Register the routes
+
 app.add_url_rule('/suggest_diving_areas', 'suggest_diving_areas', suggest_diving_areas_endpoint, methods=['GET'])
+
+app.add_url_rule('/cdiving', 'cdiving', cdiving, methods=['POST'])
 
 if __name__ == '__main__':
     app.run(debug=True)

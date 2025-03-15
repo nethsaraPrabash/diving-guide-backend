@@ -1,5 +1,6 @@
 from flask import request, jsonify
-from model import suggest_diving_areas
+from ruindiv import suggest_diving_areas
+from cdiving import preprocess_input, make_prediction
 
 def suggest_diving_areas_endpoint():
     experience_level = request.args.get('experience_level')
@@ -11,3 +12,17 @@ def suggest_diving_areas_endpoint():
         return jsonify({'error': suggestions}), 400
     
     return jsonify(suggestions)
+
+def cdiving():
+    try:
+        data = request.json
+        
+        processed_data = preprocess_input(data)
+        
+        predicted_label = make_prediction(processed_data)
+        
+        return jsonify({"Predicted Record Category": predicted_label})
+    
+    except Exception as e:
+        return jsonify({"error": str(e)})
+
